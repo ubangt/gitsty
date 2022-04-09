@@ -8,7 +8,7 @@ hello git i am wub!
 hello git i am wub!
 hello git i am wub!
 hello git i am wub!
-hello git i am wub!
+hello git i am wub! hot-fix test
 hello git i am wub!
 hello git i am wub!
 hello git i am wub!
